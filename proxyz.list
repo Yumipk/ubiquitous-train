@@ -1,5 +1,4 @@
-# 代理
-DOMAIN,cf.bili.rip
-cf.imetyou.top
-emby.as174.de
-nv.oi.sb
+DOMAIN-SUFFIX,,cf.bili.rip
+DOMAIN-SUFFIX,cf.imetyou.top
+DOMAIN-SUFFIX,emby.as174.de
+DOMAIN-SUFFIX,nv.oi.sb
