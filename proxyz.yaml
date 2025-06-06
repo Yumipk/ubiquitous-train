@@ -1,5 +1,5 @@
 payload:
-- cf.bili.rip
-- cf.imetyou.top
-- emby.as174.de
-- nv.oi.sb
+  - DOMAIN cf.bili.rip
+  - DOMAIN cf.imetyou.top
+  - DOMAIN emby.as174.de
+  - DOMAIN nv.oi.sb
