@@ -1,7 +1,7 @@
 # 直连
-DOMAIN,g.emby.to,DIRECT
-DOMAIN,fk.imetyou.top,DIRECT
-DOMAIN,hxd.as174.de,DIRECT
-DOMAIN,emby.bangumi.ca,DIRECT
-DOMAIN,ap-cn01.emby.bangumi.ca,DIRECT
-DOMAIN-KEYWORD,xlys,DIRECT
+DOMAIN,g.emby.to
+DOMAIN,fk.imetyou.top
+DOMAIN,hxd.as174.de
+DOMAIN,emby.bangumi.ca
+DOMAIN,ap-cn01.emby.bangumi.ca
+DOMAIN-KEYWORD,xlys
